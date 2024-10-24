@@ -5,6 +5,7 @@ This project demonstrates the use of logistic regression to detect fraudulent cr
 ## Dataset
 
 The dataset used in this project is the Credit Card Fraud Detection dataset available on Kaggle. It contains transactions made by credit cards in September 2013 by European cardholders.
+Link : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
 
 ## Model
 
